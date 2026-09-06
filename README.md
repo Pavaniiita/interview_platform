@@ -2,7 +2,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://interview-platform-nine-pi.vercel.app)
 [![Backend](https://img.shields.io/badge/Backend-Render-46E3B7?style=for-the-badge&logo=render)](https://interview-platform-api.onrender.com)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+
 
 A full-stack MERN interview platform with **real-time collaborative code editing**, **P2P WebRTC video calls**, **AI-powered performance reviews**, and a complete **DSA practice system** — built for technical interviews at scale.
 
