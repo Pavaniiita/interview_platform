@@ -294,9 +294,3 @@ MIT License — feel free to use this project for learning or as a portfolio pie
 
 ---
 
-## 👤 Author
-
-**Gara Sri Ram**
-- GitHub: [@Gara-Sriram](https://github.com/Gara-Sriram)
-- LinkedIn: [Sriram Gara](https://www.linkedin.com/in/sriram-gara-952120293/)
-- Email: garasriram@gmail.com
