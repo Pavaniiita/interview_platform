@@ -282,15 +282,3 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-> *Coming soon — add screenshots of the session room, practice sheet, and AI review page here.*
-
----
-
-## 📄 License
-
-MIT License — feel free to use this project for learning or as a portfolio piece.
-
----
-
